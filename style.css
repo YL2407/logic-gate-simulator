@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  position:absolute;
+}
+#file_load_div{
+  display:none;
+  position:absolute;
+  left:60px;
+  top:30px;
+}
